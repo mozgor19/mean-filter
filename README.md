@@ -18,3 +18,17 @@ First, download the file named "MATLAB Files" to your computer. MATLAB program m
   However, after doing so, you should change the code in the first line by writing your own file name inside the imread() function:
     > colored_img = imread("file_name")
 
+## Further Reading
+
+Source 1: https://homepages.inf.ed.ac.uk/rbf/HIPR2/mean.htm
+Source 2: https://www.youtube.com/watch?v=q9AqlQ274ss&list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX&index=6
+Source 3: https://docs.opencv.org/4.x/d4/d13/tutorial_py_filtering.html
+
+## General Image Processing References
+
+- Kenneth R. Castleman, Digital Image Processing. Prentice Hall, 1996.
+- Anil K. Jain, Fundamentals of Digital Image Processing. Prentice Hall, 1989.
+- William K. Pratt, Digital Image Processing. Wiley, 1991.
+- Rafael C. Gonzalez and Richard E. Woods, Digital Image Processing. Addison-Wesley, 1992.
+- I. Pitas and A. N. Venetsanopoulos, Nonlinear Digital Filters: Principles and Applications. Kluwer Academic, 1990.
+
