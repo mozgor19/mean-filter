@@ -20,9 +20,9 @@ First, download the file named "MATLAB Files" to your computer. MATLAB program m
 
 ## Further Reading
 
-Source 1: https://homepages.inf.ed.ac.uk/rbf/HIPR2/mean.htm
-Source 2: https://www.youtube.com/watch?v=q9AqlQ274ss&list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX&index=6
-Source 3: https://docs.opencv.org/4.x/d4/d13/tutorial_py_filtering.html
+- Source 1: [The University of Edinburgh - Mean Filter](https://homepages.inf.ed.ac.uk/rbf/HIPR2/mean.htm)
+- Source 2: https://www.youtube.com/watch?v=q9AqlQ274ss&list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX&index=6
+- Source 3: https://docs.opencv.org/4.x/d4/d13/tutorial_py_filtering.html
 
 ## General Image Processing References
 
